@@ -59,6 +59,8 @@ Gerar soluções para o comportamento dos personagens em um game
 
 
 Ensinar um agente em seu funcionamento desde o ponto "zero"
+
 ![Aplicação do AG](https://i.makeagif.com/media/9-19-2015/L8JEz8.gif)
+
 - Ensinar o comportamento do agente do "zero";
 - **Aprendizado** por tentativa e erro;
