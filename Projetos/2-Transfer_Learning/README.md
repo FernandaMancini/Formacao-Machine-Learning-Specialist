@@ -30,7 +30,7 @@ O projeto adota uma abordagem sistemática para construção e treinamento de mo
 
 ## Comparação gráfica dos Modelos ao Longo das Épocas
 
-![Comparação Gráfica](comparacaografica.png)
+![comparacaografica](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/assets/108295414/c3b11231-f2db-4be5-9557-d652cda3e068)
 
 ## 🎉Rsultado do Projeto
 Após o treinamento e previsão da máquina, utilizei esse código para mostrar o resultado:
@@ -46,7 +46,7 @@ Após o treinamento e previsão da máquina, utilizei esse código para mostrar 
 
 E esse foi o resultado do projeto🌟:
 
-![Resultado](resultado.png)
+![resultado (2)](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/assets/108295414/417da355-fcd1-419b-83a4-4a99a6dc51c7)
 
 ## 🧠O que foi aprendido
 - Esse foi o meu primeiro projeto de machine learning, aprendi sobre Transfer Learning, Ajuste Fino, Pré-processamento de Dados, Avaliação de Desempenho e Visualização de Resultados.
