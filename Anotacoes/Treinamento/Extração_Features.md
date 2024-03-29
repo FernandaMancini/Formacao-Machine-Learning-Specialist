@@ -41,4 +41,4 @@ Exemplo:
 ## Redução de dimensão no espaço de cor:
 Espera-se usar o número reduzido de tons de cinza, preservandoo o máximo possível, o contraste da imagem original. Inevitavelmente há perdas de informação de cor. 
 
-![Redução de Dimensionalidade](reduçãodimensionalidade.png)
+![reduçãodimensionalidade](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/assets/108295414/e2555534-712b-4bd1-8b2f-91256a04c3c2)
