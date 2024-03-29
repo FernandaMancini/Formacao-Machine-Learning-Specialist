@@ -29,7 +29,9 @@ A base de dados é composta por duas pastas principais:
 <img width="30px" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png">
 <img width="30px" src="https://cdn.worldvectorlogo.com/logos/pixabay.svg">
 </div>
+
 Para compilar essa base de dados, utilizei principalmente o [Kaggle](https://www.kaggle.com/), uma plataforma amplamente reconhecida por sua vasta coleção de conjuntos de dados e competições de machine learning. Além do Kaggle, também fiz uso de recursos de imagem do [Freepik](https://www.freepik.com/) e [Pixabay](https://www.pixabay.com/), garantindo uma variedade de imagens de alta qualidade e diversidade para cada categoria.
+
 
 ## Próximos Passos
 
