@@ -46,6 +46,7 @@ Dependente de uma base de conhecimento...
 
 <h2 align="center">
 <span>Aprendizado por Reforço</span>
+     
 <img src='https://lamfo-unb.github.io/img/tres-tipos-am/f011.jpg'  width="300px"></h2>
 
 **Definição:** O aprendizado por reforço é uma abordagem de aprendizado de máquina inspirada na psicologia comportamental.
@@ -58,6 +59,7 @@ Dependente de uma base de conhecimento...
 
 <h2 align="center">
 <span>Neurônio Artificial</span>
+     
 <img src='https://blog.accurate.com.br/wp-content/uploads/2021/01/Neuronios-e-Neuronios-Artificiais-300x184.png'></h2>
 
 **Definição:** O aprendizado por reforço é uma abordagem de aprendizado de máquina inspirada na psicologia comportamental.
