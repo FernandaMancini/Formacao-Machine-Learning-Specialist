@@ -26,7 +26,9 @@
 ### Ex Machina
 - Um humano escolhido para o **teste de Turing** com uma máquina com IA: 
   - Baseado no jogo da imitação
+  
 ![Teste de Turing](https://media.licdn.com/dms/image/C4D12AQG-t4COr9LVIA/article-inline_image-shrink_400_744/0/1597538704745?e=1716422400&v=beta&t=6UAmckywlYoJHfAyz3m2pO1CUuLGIOqD4eUz-_fI8cc)
+
 - Um humano escolhido aplicando o **teste de Turing** em uma máquina:
 >   O **Teste de Turing** testa a capacidade de uma máquina exibir comportamento inteligente equivalente a um ser humano, ou indistinguível deste. 
 
@@ -79,6 +81,7 @@ Fusão de Sensores para Visão Computacional:
 ## Deep Learning - TensorFlow
 Extração de features 2D:
 - CNN: Aprendem automaticamente a extrair em imagens 2D
+  
 ![Deep Learning](https://static.packt-cdn.com/products/9781838823412/graphics/Images/B14761_04_01.png)
 
 ## Prática e bibliotecas de ML
