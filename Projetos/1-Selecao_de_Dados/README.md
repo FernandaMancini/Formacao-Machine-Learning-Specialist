@@ -12,12 +12,14 @@ O primeiro projeto na Formação Machine Learning Specialist! Neste projeto inic
 ### Estrutura da Base de Dados
 
 A base de dados é composta por duas pastas principais:
+
 <p>
-     <img align="center" width="30px" src="icon_cat.png">
+     <img align="center" width="30px" src="https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/assets/108295414/3dc12248-a4ef-439d-b01e-855d0a956ce9">
     <span><strong>cat: </strong>Contém mil imagens de gatos.</span>
 </p>
+
 <p>
-     <img align="center" width="30px" src="icon_dog.png">
+     <img align="center" width="30px" src="https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/assets/108295414/4b48916a-2d46-4a6c-84bf-784604f67072">
     <span><strong>dog: </strong>Contém mil imagens de cachorros.</span>
 </p>
 
