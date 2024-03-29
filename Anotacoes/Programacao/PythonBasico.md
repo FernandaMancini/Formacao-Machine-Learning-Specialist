@@ -1,6 +1,6 @@
 <h1>
      <img align="center" width="60px" src="https://hermes.dio.me/courses/badge/dabc8205-4a91-473c-acbd-b310d8db3df2.png">
-    <span>Python para<strong>Machine Learning</stong></span>
+    <span>Python para <strong>Machine Learning</stong></span>
 </h1>
 
 ## O básico para Python em ML
