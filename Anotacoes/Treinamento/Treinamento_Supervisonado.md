@@ -16,8 +16,6 @@ Como analogia vamos falar sobre os tipos de controle:
 # Treinamento Supervisionado
 Quando os valores de **yi** são definidos por uma quantidade limitada de **valores discretos**, tem-se um problema de <span style="color: red;">classificação</span>. Quais tais valores **são contínuos**, tem-se um problema de <span style="color: red;">regressão</span>.
 
-![Classificação x Regressão](https://www.leansaude.com.br/wp-content/uploads/2022/03/Aprendizado-supervisionada.png)
-
 ## Diferença entre Classificação e Regressão
 A diferença significativa entre **Classificação** e **Regressão** é que a <span style="color: red;">classificação</span> mapeia o objeto de dados de entrada para alguns rótulos discretos. Por outro lado, a <span style="color: red;">regressão</span> mapeia o objeto de dados de entrada para os valores reais contínuos.
 
