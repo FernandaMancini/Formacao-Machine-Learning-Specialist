@@ -24,3 +24,37 @@ plt.show()
 Assim, temos essa Matriz de Confusão: 
 
 ![Matriz de Confusão](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/4-Metricas_e_Aprendizado_Estatistico/Resultado_Matriz_de_Confusao.png)
+
+## 📊 Cálculo de Métricas
+Após gerar a Matriz de Confusão, foi realizado o cálculo das Métricas de Avaliação do Modelo, sendo elas: 
+ - Precisão
+ - Sensibilidade
+ - Especificidade
+ - Acurácia
+ - F-score
+
+ Aqui está o código das métricas: 
+ 
+``` python
+def calculate_metrics(conf_matrix):
+    FP = conf_matrix.sum(axis=0) - np.diag(conf_matrix)
+    FN = conf_matrix.sum(axis=1) - np.diag(conf_matrix)
+    TP = np.diag(conf_matrix)
+    TN = conf_matrix.sum() - (FP + FN + TP)
+
+    precision = TP / (TP + FP)
+    recall = TP / (TP + FN)
+    specificity = TN / (TN + FP)
+    accuracy = (TP + TN) / (TP + TN + FP + FN)
+    f1_score = 2 * (precision * recall) / (precision + recall)
+
+    metrics = {
+        'Precision': precision,
+        'Recall': recall,
+        'Specificity': specificity,
+        'Accuracy': accuracy,
+        'F1-score': f1_score
+    }
+
+    return metrics
+```
