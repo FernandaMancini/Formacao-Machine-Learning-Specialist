@@ -26,7 +26,7 @@ Assim, temos essa Matriz de Confusão:
 ![Matriz de Confusão](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/4-Metricas_e_Aprendizado_Estatistico/Resultado_Matriz_de_Confusao.png)
 
 ## 📊 Cálculo de Métricas
-Após gerar a Matriz de Confusão, foi realizado o cálculo das Métricas de Avaliação do Modelo, sendo elas: 
+Após gerar a Matriz de Confusão, foi realizado o cálculo das **Métricas de Avaliação do Modelo**, sendo elas: 
  - Precisão
  - Sensibilidade
  - Especificidade
@@ -60,3 +60,24 @@ def calculate_metrics(conf_matrix):
 ```
 Caso queria saber com mais detalhes o que são essas métricas e como calcular, as anotações detalhadas estão nesse [link](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Anotacoes/Valida%C3%A7%C3%A3o/Metricas.md)
 
+## ✅ Resultados
+Após a Definição, foi calculado as Métricas de cada casse, como pode ver no exemplo abaixo: 
+
+```
+Métricas da classe 1:
+Precisão: 0.99
+Sensibilidade: 1.00
+Especificidade: 1.00
+Acurácia: 1.00
+F1-Score: 1.00
+```
+Também foi gerado o resultado das Métricas de Todas as Classes: 
+
+```
+Média das Metricas de todas as classes:
+Precisão Média: 0.99
+Sensibilidade Média: 0.99
+Especificidade Média: 1.00
+Acurácia Média: 1.00
+F1-Score Médio: 0.99
+```
