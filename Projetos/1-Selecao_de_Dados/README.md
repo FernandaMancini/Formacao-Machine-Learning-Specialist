@@ -3,7 +3,7 @@
     <span>1 - Seleção de Dados</span>
 </h1>
 
-![Imagem inicial](https://envato-shoebox-0.imgix.net/6340/cf83-7c9f-4a81-ad0d-42d3f67774c1/2022_036_999_Banner_B_W.jpg?auto=compress%2Cformat&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&w=700&fit=max&markalign=center%2Cmiddle&markalpha=18&s=b113b1a6ee740d65e243dbfd2f7ce125)
+![Imagem inicial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyJtpIAXU4K7tR3sbm8_u2buu8mObI8ylDCX3vn-rBxwCy-gS8AGia2Uf&s=10)
 
 ## 📝Descrição do Projeto
 
@@ -24,7 +24,7 @@ A base de dados é composta por duas pastas principais:
 </p>
 
 ### Fontes de Imagens Utilizadas
-<div align="center">
+<div>
 <img width="30px" src="https://play-lh.googleusercontent.com/ssrpBT94LnMy6mgyNbbEj_9SONp8h4lK8HWrN4qR67dyfwIjgNTYJZOSY4ZOL2yC60uY">
 <img width="30px" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png">
 <img width="30px" src="https://cdn.worldvectorlogo.com/logos/pixabay.svg">
