@@ -3,7 +3,7 @@
     <span>3 - Redução de Dimensionalidade</span>
 </h1>
 
-## 📑 Introdução
+## 📑 Descrição do Projeto
 Este projeto visa aplicar técnicas de redução de dimensionalidade em uma imagem digital, utilizando o software Scilab. O objetivo é transformar a imagem original em escala de cinza e, posteriormente, em uma versão binária.
 > Decidi usar o Scilab para praticar e porque já tinha usado para processamento de imagem.
 
