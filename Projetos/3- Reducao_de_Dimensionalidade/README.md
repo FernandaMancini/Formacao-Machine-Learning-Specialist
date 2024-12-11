@@ -48,4 +48,4 @@ A redução de dimensionalidade é uma ferramenta poderosa para o processamento 
 
 Para mais detalhes do código, acesse o projeto pelo link abaixo:
 
-[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/2-Transfer_Learning/Projeto_de_Transfer_Learning_em_Python.ipynb)
+[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/3-%20Reducao_de_Dimensionalidade/teste.sci)
