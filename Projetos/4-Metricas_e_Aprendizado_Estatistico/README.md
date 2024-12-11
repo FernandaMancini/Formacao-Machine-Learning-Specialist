@@ -111,4 +111,4 @@ Foi visto a aplicação das principais Métricas de Validação na Avaliação d
 
 Para mais detalhes do código, acesse o projeto pelo link abaixo:
 
-[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/3-%20Reducao_de_Dimensionalidade/teste.sci)
+[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/4-Metricas_e_Aprendizado_Estatistico/Matriz_de_Confusao_e_Metricas.ipynb)
