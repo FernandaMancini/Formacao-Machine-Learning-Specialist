@@ -3,7 +3,7 @@
     <span>2- Transfer Learning em Python</span>
 </h1>
 
-![Imagem inicial](https://envato-shoebox-0.imgix.net/6340/cf83-7c9f-4a81-ad0d-42d3f67774c1/2022_036_999_Banner_B_W.jpg?auto=compress%2Cformat&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&w=700&fit=max&markalign=center%2Cmiddle&markalpha=18&s=b113b1a6ee740d65e243dbfd2f7ce125)
+![Imagem inicial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBRrgpw7_rI5kkvM_zWtCiwf_kUEpvQKFfg&usqp=CAU)
 
 ## ✏️Descrição
 
