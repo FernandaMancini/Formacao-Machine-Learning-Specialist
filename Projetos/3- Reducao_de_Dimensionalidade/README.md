@@ -43,3 +43,9 @@ Por fim, converti para binário
 
 ## 🎓Conclusão
 A redução de dimensionalidade é uma ferramenta poderosa para o processamento de imagens, permitindo uma simplificação significativa dos dados sem perder informações críticas.
+
+## 🔗Link do Código
+
+Para mais detalhes do código, acesse o projeto pelo link abaixo:
+
+[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/2-Transfer_Learning/Projeto_de_Transfer_Learning_em_Python.ipynb)
