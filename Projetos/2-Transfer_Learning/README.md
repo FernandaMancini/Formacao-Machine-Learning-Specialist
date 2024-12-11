@@ -54,6 +54,6 @@ E esse foi o resultado do projeto🌟:
 
 ## 🔗Link do Código no Colab
 
-Acesse o projeto diretamente no Google Colab pelo link abaixo:
+Para mais detalhes do código, acesse o projeto pelo link abaixo:
 
-[👉 Acesse o código no Colab](https://colab.research.google.com/)
+[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/2-Transfer_Learning/Projeto_de_Transfer_Learning_em_Python.ipynb)
