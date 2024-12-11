@@ -81,3 +81,26 @@ Especificidade Média: 1.00
 Acurácia Média: 1.00
 F1-Score Médio: 0.99
 ```
+
+Por fim, foi feito uma Tabela do Reporte de Classificação: 
+
+```
+Reporte de Classificação:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       980
+           1       0.99      1.00      1.00      1135
+           2       0.99      0.99      0.99      1032
+           3       0.99      0.99      0.99      1010
+           4       0.98      1.00      0.99       982
+           5       0.99      0.99      0.99       892
+           6       0.99      0.99      0.99       958
+           7       0.99      0.99      0.99      1028
+           8       0.99      0.99      0.99       974
+           9       0.99      0.98      0.99      1009
+
+    accuracy                           0.99     10000
+   macro avg       0.99      0.99      0.99     10000
+weighted avg       0.99      0.99      0.99     10000
+```
+
