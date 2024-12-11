@@ -58,3 +58,5 @@ def calculate_metrics(conf_matrix):
 
     return metrics
 ```
+Caso queria saber com mais detalhes o que são essas métricas e como calcular, as anotações detalhadas estão nesse [link](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Anotacoes/Valida%C3%A7%C3%A3o/Metricas.md)
+
