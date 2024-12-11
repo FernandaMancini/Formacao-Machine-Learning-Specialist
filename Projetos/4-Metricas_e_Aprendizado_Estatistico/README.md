@@ -21,3 +21,6 @@ plt.xlabel('Predicted label')
 plt.title('Normalized Confusion Matrix')
 plt.show()
 ```
+Assim, temos essa Matriz de Confusão: 
+
+![Matriz de Confusão](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/4-Metricas_e_Aprendizado_Estatistico/Resultado_Matriz_de_Confusao.png)
