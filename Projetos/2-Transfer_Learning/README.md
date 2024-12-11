@@ -5,7 +5,7 @@
 
 ![Imagem inicial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBRrgpw7_rI5kkvM_zWtCiwf_kUEpvQKFfg&usqp=CAU)
 
-## ✏️Descrição
+## ✏️Descrição do Projeto
 
 Este projeto é uma continuação da implementação de aprendizado por transferência e ajuste fino para treinar classificadores de imagens utilizando o modelo VGG16 como base. 
 
