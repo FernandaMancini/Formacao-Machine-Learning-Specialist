@@ -104,3 +104,11 @@ Reporte de Classificação:
 weighted avg       0.99      0.99      0.99     10000
 ```
 
+## 🎓Conclusão
+Foi visto a aplicação das principais Métricas de Validação na Avaliação da Performance do Modelo. Elas permitem identificar pontos fortes e fraquezas. Com base nos resultados, assim, é possível ajustar hiperparâmetros e melhorar a precisão do sistema.
+
+## 🔗Link do Código
+
+Para mais detalhes do código, acesse o projeto pelo link abaixo:
+
+[👉 Acesse o Código Completo Feito no Projeto](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/3-%20Reducao_de_Dimensionalidade/teste.sci)
