@@ -52,3 +52,8 @@ E esse foi o resultado do projeto🌟:
 - Esse foi o meu primeiro projeto de machine learning, aprendi sobre Transfer Learning, Ajuste Fino, Pré-processamento de Dados, Avaliação de Desempenho e Visualização de Resultados.
 - Pretendo cada vez mais aprimorar o meu conhecimento e esse modelo, para ficar cada vez mais eficiente!
 
+## 🔗Link do Código no Colab
+
+Acesse o projeto diretamente no Google Colab pelo link abaixo:
+
+[👉 Acesse o código no Colab](https://colab.research.google.com/)
