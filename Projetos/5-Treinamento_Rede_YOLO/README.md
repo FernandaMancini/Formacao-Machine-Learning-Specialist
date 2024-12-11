@@ -3,3 +3,5 @@
     <span>5 - Treinamento da Rede YOLO</span>
 </h1>
 
+## 📝 Descrição do Projeto
+Este projeto tem o objetivo de rotular uma base de dados e aplicar o treinamento com a rede YOLO. Sendo utilizado o processo de **Detecção de Objetos.**
