@@ -3,7 +3,21 @@
     <span>4 - Cálculo de Métricas de Avaliação de Aprendizagem</span>
 </h1>
 
-## 📝Descrição do Projeto
+## 📝 Descrição do Projeto
 Este projeto tem o objetivo de calcular as principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score. 
 
-## Matriz de Confusão
+## 🔢 Matriz de Confusão
+Para a leitura dos valores de VP, VN, FP e FN, foi necessário escolher uma matriz de confusão para a base dos cálculos. 
+
+Foi utilizado uma matriz de confusão gerada pelo código abaixo: 
+
+```python
+conf_matrix = confusion_matrix(test_labels, y_pred)
+plt.figure(figsize=(8, 8))
+sns.heatmap(conf_matrix, annot=True, cmap=plt.cm.Blues)
+plt.tight_layout()
+plt.ylabel('True label')
+plt.xlabel('Predicted label')
+plt.title('Normalized Confusion Matrix')
+plt.show()
+```
