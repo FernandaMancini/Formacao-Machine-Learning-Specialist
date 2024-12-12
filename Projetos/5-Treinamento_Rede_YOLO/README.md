@@ -19,3 +19,4 @@ Utilizei este gif para realizar a detecção:
 
 ![Gif de cachorro e gato](https://crushpets.com/wp-content/uploads/2020/10/Como-fazer-cachorro-e-gato-se-darem-bem.gif)
 
+![Detecção](https://github.com/user-attachments/assets/2ef8f24f-ca06-49ec-a8a0-e44026e5bcdf)
