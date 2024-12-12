@@ -12,3 +12,10 @@ Este projeto tem o objetivo de rotular uma base de dados e aplicar o treinamento
     <strong><span">LabelMe</span></strong>
 </h2>
 O labelme é uma ferramenta que permite transformar um conjunto de imagens anotadas em um dataset para detecção e segmentação semântica. 
+
+Para instalar o LabelMe utilizei esse repositório para me basear: https://github.com/wkentaro/labelme
+
+Utilizei este gif para realizar a detecção: 
+
+![Gif de cachorro e gato](https://crushpets.com/wp-content/uploads/2020/10/Como-fazer-cachorro-e-gato-se-darem-bem.gif)
+
