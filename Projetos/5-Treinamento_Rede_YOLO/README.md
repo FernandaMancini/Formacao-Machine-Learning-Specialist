@@ -6,7 +6,7 @@
 ## 📝 Descrição do Projeto
 Este projeto tem o objetivo de rotular uma base de dados e aplicar o treinamento com a rede YOLO. Sendo utilizado o processo de **Detecção de Objetos.**
 
-## Tecnologias Utilizadas:
+## 💻 Tecnologias Utilizadas:
 <h2>
 <img align="center" width="60px" src="https://www.labelme.io/assets/img/icon.png">
     <strong><span">LabelMe</span></strong>
