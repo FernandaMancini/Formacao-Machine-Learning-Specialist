@@ -2,7 +2,7 @@ TensorFlow
 
 Parte 1: Introdução ao TensorFlow
 
-https://colab.research.google.com/drive/1FEWVKa8rbMXi3fG0w7AtcscFq7Hi7B#forceEdit=true&sandboxMode=true
+https://colab.research.google.com/drive/1F_EWVKa8rbMXi3_fG0w7AtcscFq7Hi7B#forceEdit=true&sandboxMode=true
 
 Parte 2: Modelos de treinamento
 
