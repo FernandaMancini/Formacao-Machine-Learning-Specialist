@@ -35,3 +35,23 @@ modelo = LinearRegression()
 Após essa execução, o objeto **modelo** que acabamos de criar está pronto para receber os dados que darão origem ao modelo. Como não identificamos nenhum parâmetro específico na função, estamos utilizando sua configurações padrão.
 
 > Agora precisamos apenas apresentar os dados do modelo, e para isso temos o **método fit()**. Na documentação da função podemos conferir todos os métodos que ela possui. 
+
+## Previsão de Dados Desconhecidos
+Após esta etapa, nosso modelo de machine learning está pronto e **podemos utilizá-lo para prever dados desconhecidos.** Simplificando este primeiro entendimento, vamos apenas vizualizar a **reta de regressão linear** que o modelo gera, com os mesmo dados que criaram o modelo. Para isso iremos utilizar o método **predict()**, indicando que queremos aplicar a previsão nos valores de **x**. O resultado do método será uma previsão de **y** para cada valor de **x** apresentado.
+
+```
+modelo.predict(x)
+```
+
+![Previsão](https://github.com/user-attachments/assets/4ae8b4c0-4e4c-4a3f-8c55-4b3f6cc831cc)
+
+**A função plot() do pacote pyplot gera uma reta com os dados apresentados.** Como já temos os dados de x e y, basta indicá-los na função. Assim, primeiramente montamos novamente o gráfico x e y
+ original com a função **scatter()** e somamos a ele a reta de regressão linear. 
+
+ ```
+plt.scatter(x,y)
+plt.plot(x, modelo.predict(x), color='red', linewidth=3)
+plt show()
+```
+
+![Gráfico Regressão Linear](https://github.com/user-attachments/assets/238689a2-05b9-465c-9f1a-2e25a6961bd2)
