@@ -10,7 +10,8 @@ A Amazon Web Services é a plataforma de nuvem mais adotada e mais abrangente do
 A AWS oferece o conjunto mais amplo e aprofundado de serviços de inteligência artificial e de Machine Learning (ML) e infraestrutura de nuvem de apoio.
 
 ## AWS para ML - GPUs
+![AWS GPUs](https://github.com/user-attachments/assets/4d85d178-f904-4e97-9850-ad01d68ef026)
 
-![Screenshot_20241221-155404](https://github.com/user-attachments/assets/8163221b-2af5-4710-9d5c-322cfe16c93e)
+![AWS GPUs](https://github.com/user-attachments/assets/8163221b-2af5-4710-9d5c-322cfe16c93e)
 
 
