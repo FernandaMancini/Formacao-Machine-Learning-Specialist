@@ -38,6 +38,12 @@ Assim, temos o resultado abaixo:
 
 <img width="150px" src="https://github.com/user-attachments/assets/99f6b01c-2a79-4286-8aec-5d516d8493f5">
 
+
+## 🤩 Vale a Pena ver Também
+Além deste projeto, também tenho um Repositório de um Projeto de Detecção de Emoções. Vale muito a pena ver!!
+
+Para acessar, clique neste [link](https://github.com/FernandaMancini/Implementing-Artificial-Intelligence-for-Emotion-Detection)
+
 ## 🧠 O que foi Aprendido
 Este projeto demonstra como integrar ferramentas para criar um sistema de reconhecimento facial. Durante o desenvolvimento, foram aprendidos conceitos de processamento de imagens, além da aplicação prática de bibliotecas como OpenCV. Também foi possível compreender melhor a integração entre diferentes tecnologias e o impacto de ajustes finos para melhorar a precisão do sistema.
 
