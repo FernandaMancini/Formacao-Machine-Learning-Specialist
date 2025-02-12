@@ -28,3 +28,6 @@ Então, uma alternativa possível é baixar uma base já existem, usando assim:
 <img align="center" width="220px" src="https://cocodataset.org/images/coco-logo.png">
      <strong><span">COCO (Common Objects in Context)</span></strong>
 </h2>
+
+COCO é um conjunto de dados de detecção, segmentação e legenda de objetos em grande escala.
+
