@@ -31,7 +31,12 @@ Então, uma alternativa possível é baixar uma base já existem, usando assim:
 
 COCO é um conjunto de dados de detecção, segmentação e legenda de objetos em grande escala.
 
-Infelizmente, meu computador não aguentou a base de dados do COCO e também não aguentou o YOLO 😥. Então, utilizarei a proxima estratégia:
+Infelizmente, meu computador não aguentou a base de dados do COCO e também não aguentou o YOLO 😥
+
+![download](https://github.com/user-attachments/assets/187bdef0-c6da-41b7-bcfc-36b6d094360a)
+
+
+Então, utilizarei a proxima estratégia:
 
 <h2>
 <img align="center" width="220px" src="https://media.licdn.com/dms/image/v2/D4D12AQGwWvS7_Wtb1A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689944341410?e=2147483647&v=beta&t=JFrVf-u4fXXOaMnEQJ02pDHg2V9gcOBf00AiqL4AXaY">
