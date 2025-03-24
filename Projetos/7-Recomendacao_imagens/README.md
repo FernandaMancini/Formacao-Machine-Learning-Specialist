@@ -126,4 +126,4 @@ Durante o desenvolvimento, foram explorados conceitos essenciais:
 ## 🔗Link do Código
 
 Para mais detalhes, acesse o notebook completo no Google Colab:
-👉 [Acesse o Código Completo]()
+👉 [Acesse o Código Completo](https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist/blob/main/Projetos/7-Recomendacao_imagens/Sistema_de_recomendacao_por_imagens.ipynb)
